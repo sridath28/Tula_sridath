@@ -1,7 +1,7 @@
-sri=int(input())
-if (sri%2==0):
+sr=int(input())
+if (sr%2==0):
    print("Even")
-elif(sri%2!=0):
+elif(sr%2!=0):
    print("Odd")
 else:
   print("Invalid")
