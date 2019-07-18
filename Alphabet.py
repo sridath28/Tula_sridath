@@ -1,8 +1,8 @@
-ch = input();
-if ch == '0':
+ss = input();
+if ss == '0':
     exit();
 else:
-    if((ch>='a' and ch<='z') or (ch>='A' and ch<='Z')):
+    if((ss>='a' and ss<='z') or (ss>='A' and ss<='Z')):
     	print("Alphabet");
     else:
     	print("No");
